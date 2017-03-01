@@ -1,5 +1,0 @@
-/Users/sergii/RiderProjects/e-olymp-cSharp/Supply_of_soda_542/Supply_of_soda_542/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/sergii/RiderProjects/e-olymp-cSharp/Supply_of_soda_542/Supply_of_soda_542/bin/Debug/Supply_of_soda_542.exe.mdb
-/Users/sergii/RiderProjects/e-olymp-cSharp/Supply_of_soda_542/Supply_of_soda_542/bin/Debug/Supply_of_soda_542.exe
-/Users/sergii/RiderProjects/e-olymp-cSharp/Supply_of_soda_542/Supply_of_soda_542/obj/Debug/Supply_of_soda_542.exe
-/Users/sergii/RiderProjects/e-olymp-cSharp/Supply_of_soda_542/Supply_of_soda_542/obj/Debug/Supply_of_soda_542.exe.mdb
