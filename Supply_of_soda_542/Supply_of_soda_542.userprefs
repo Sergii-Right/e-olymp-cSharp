@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EDEB1490-02AB-4A8A-8518-639932ED92AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Supply_of_soda_542/Program.cs">
+    <Files>
+      <File FileName="Supply_of_soda_542/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Supply__of__soda__542 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
