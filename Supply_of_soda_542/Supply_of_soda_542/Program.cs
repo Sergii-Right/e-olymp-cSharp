@@ -8,6 +8,7 @@ namespace Supply_of_soda_542
         public static void Main(string[] args)
         {
             Console.WriteLine("sdsdad");
+            Console.WriteLine("ssdsdf");
         }
     }
 }
