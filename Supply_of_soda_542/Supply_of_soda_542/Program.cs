@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Supply_of_soda_542
 {
@@ -7,7 +6,25 @@ namespace Supply_of_soda_542
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            var arr = Console.ReadLine().Split(' ');
+            var e = int.Parse(arr[0]) + int.Parse(arr[1]);
+            var c = int.Parse(arr[2]);
+            var sum = 0;
+            for (;;)
+            {
+                e -= c;
+                if (e >= 0)
+                {
+                    sum++;
+                    e++;
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }
