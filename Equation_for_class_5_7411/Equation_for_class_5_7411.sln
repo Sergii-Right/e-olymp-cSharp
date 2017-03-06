@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equation_for_class_5_7411", "Equation_for_class_5_7411/Equation_for_class_5_7411.csproj", "{B4DF15D9-F23E-4261-9EB4-F402F1C9A18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DF15D9-F23E-4261-9EB4-F402F1C9A18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DF15D9-F23E-4261-9EB4-F402F1C9A18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DF15D9-F23E-4261-9EB4-F402F1C9A18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DF15D9-F23E-4261-9EB4-F402F1C9A18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
